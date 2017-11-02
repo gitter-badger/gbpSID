@@ -2,6 +2,8 @@
 
 # gbpSID
 
+[![Join the chat at https://gitter.im/gbpSID/Lobby](https://badges.gitter.im/gbpSID/Lobby.svg)](https://gitter.im/gbpSID/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 gbpSID is a library that provides some general functionality to C/C++ projects.  
 
 Namely:
